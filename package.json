@@ -1,0 +1,23 @@
+{
+  "name": "yii2-apexchart-asset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strtob/yii2-apexchart-asset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strtob/yii2-apexchart-asset/issues"
+  },
+  "homepage": "https://github.com/strtob/yii2-apexchart-asset#readme",
+  "dependencies": {
+    "apexcharts": "^3.54.0"
+  }
+}
