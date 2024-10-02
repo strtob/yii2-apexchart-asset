@@ -1,0 +1,18 @@
+{
+    "name": "strtob/yii2-apexchart-asset",
+    "description": "a yii2 asset for apex charts",
+    "type": "yii2-asset",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Strtob\\Yii2ApexchartAsset\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Streckel",
+            "email": "ts@finance-re.de"
+        }
+    ],
+    "require": {}
+}
