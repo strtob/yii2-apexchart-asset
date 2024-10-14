@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Strtob\\Yii2ApexchartAsset\\": "src/"
+            "strtob\\yii2apexchartasset\\": "src/"
         }
     },
     "authors": [
