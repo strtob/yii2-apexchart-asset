@@ -14,11 +14,11 @@ class ApexChartAsset extends AssetBundle
         'apexcharts/dist/apexcharts.min.js',
     ];
 
-    public $css = [        
+    public $css = [
     ];
 
     public $depends = [
-        'yii\web\JqueryAsset', 
+        'yii\web\JqueryAsset',
     ];
 
 }
